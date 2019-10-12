@@ -1,0 +1,25 @@
+body {
+    background-color: #456f6f;
+    background-image: url("images/luca-bravo-415109.jpg");
+    background-size: cover;   
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#main {
+    border-style: groove;
+    border-color: black;
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 25%;
+    margin-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    font-size: 1.2em;
+    font-family: georgia;
+    text-align: left;
+    min-width: 630px;   
+    padding-bottom: 5px;
+}
